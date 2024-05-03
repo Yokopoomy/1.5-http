@@ -1,0 +1,13 @@
+{
+  "name": "1.5-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node -r dotenv/config index.js"
+  },
+  "author": "Yokopoomy",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
